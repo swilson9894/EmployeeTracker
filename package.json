@@ -1,0 +1,25 @@
+{
+  "name": "mysql-employee-tracker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swilson9894/EmployeeTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swilson9894/EmployeeTracker.git"
+  },
+  "homepage": "https://github.com/swilson9894/EmployeeTracker.git#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "description": ""
+}
